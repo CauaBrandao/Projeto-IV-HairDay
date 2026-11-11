@@ -93,3 +93,4 @@ O **HairDay** é uma Single Page Application (SPA) para gerenciamento de agendam
   - `docs:` para documentação.
   - `test:` para acréscimo ou ajuste de testes Playwright.
 - Certificar-se de rodar `npm run build` e `npm run test:e2e` antes de cada commit.
+

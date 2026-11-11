@@ -6,3 +6,4 @@ import { useScheduleContext } from '../context/ScheduleContext';
 export const useSchedule = () => {
   return useScheduleContext();
 };
+

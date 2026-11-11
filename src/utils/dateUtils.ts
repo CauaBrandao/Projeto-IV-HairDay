@@ -23,3 +23,4 @@ export function getTodayISODate(): string {
  * Data padrão de referência do protótipo do Figma ("2024-01-10")
  */
 export const FIGMA_DEFAULT_DATE = '2024-01-10';
+

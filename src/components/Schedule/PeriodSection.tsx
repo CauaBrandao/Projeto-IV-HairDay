@@ -65,3 +65,4 @@ export const PeriodSection: React.FC<PeriodSectionProps> = ({
     </section>
   );
 };
+

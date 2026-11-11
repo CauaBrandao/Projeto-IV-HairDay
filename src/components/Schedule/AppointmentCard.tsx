@@ -38,3 +38,4 @@ export const AppointmentCard: React.FC<AppointmentCardProps> = ({
     </div>
   );
 };
+

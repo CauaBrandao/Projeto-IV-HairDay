@@ -85,3 +85,4 @@ export const ScheduleView: React.FC<ScheduleViewProps> = ({ onNotify }) => {
     </main>
   );
 };
+

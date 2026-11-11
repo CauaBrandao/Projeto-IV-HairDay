@@ -33,3 +33,4 @@ export interface ScheduleContextType {
   getGroupedAppointmentsForDate: (date: string) => Record<PeriodType, Appointment[]>;
   getTotalAppointmentsCount: (date: string) => number;
 }
+

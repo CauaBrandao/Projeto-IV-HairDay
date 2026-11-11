@@ -245,3 +245,4 @@ Todos os 8 testes executados cobrem:
 - Validação e cadastro de novos agendamentos em tempo real.
 - Exclusão via botão de lixeira e exibição de aviso de período vazio.
 - Geração automática das capturas em `docs/screenshots/`.
+
